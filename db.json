@@ -3,7 +3,7 @@
     {
       "id": "0",
       "headline": false,
-      "title": "Test article_content",
+      "title": "Test article_content without image",
       "author": "Audiopedia",
       "sponsored": false,
       "language": "English",
@@ -12,13 +12,29 @@
       "category": "Women Essentials",
       "subcategory": "Health",
       "topic_internal": "General Health",
-      "article_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla at volutpat diam ut venenatis. Dui accumsan sit amet nulla facilisi morbi tempus iaculis urna. Arcu non odio euismod lacinia at quis risus. In metus vulputate eu scelerisque. Potenti nullam ac tortor vitae. Donec pretium vulputate sapien nec sagittis. Id consectetur purus ut faucibus pulvinar elementum. Fusce ut placerat orci nulla. Faucibus pulvinar elementum integer enim neque volutpat ac. Enim nunc faucibus a pellentesque sit amet. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit. Lacus sed viverra tellus in hac habitasse platea dictumst. At quis risus sed vulputate odio ut enim blandit volutpat. Parturient montes nascetur ridiculus mus mauris vitae ultricies. Viverra accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Diam in arcu cursus euismod quis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Lectus magna fringilla urna porttitor rhoncus dolor purus. Augue neque gravida in fermentum et.\n\nAuctor neque vitae tempus quam pellentesque nec. Duis ut diam quam nulla porttitor massa id. Nulla pellentesque dignissim enim sit amet. Mauris pharetra et ultrices neque ornare aenean. Dolor purus non enim praesent elementum facilisis leo vel. Non tellus orci ac auctor augue mauris augue neque. Justo laoreet sit amet cursus sit amet dictum sit amet. Tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum. Egestas integer eget aliquet nibh praesent tristique magna sit. Odio tempor orci dapibus ultrices in. Quam nulla porttitor massa id neque aliquam. Feugiat pretium nibh ipsum consequat nisl vel pretium.",
-      "image_url": "https://markateur.com/wp-content/uploads/2017/04/articles.jpg",
+      "article_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat nam at lectus urna. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Lectus quam id l\n  db.articles.forEach(article => {\n    topicList.add(article.topic_internal);\n    regionList.add(article.region);\n  }); vitae nunc. Ultricies leo integer malesuada nunc. Sit amet risus nullam eget felis eget nunc lobortis mattis.\n\n  Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Maecenas pharetra convallis posuere morbi leo. Interdum velit euismod in pellentesque massa. Gravida arcu ac tortor dignissim convallis. Dui ut ornare lectus sit amet est placerat in egestas. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Laoreet sit amet cursus sit amet dictum sit amet. Phasellus faucibus scelerisque eleifend donec. Ridiculus mus mauris vitae ultricies leo. Purus ut faucibus pulvinar elementum integer. Imperdiet nulla malesuada pellentesque elit eget. Tellus rutrum tellus pellentesque eu. Sem et tortor consequat id porta nibh venenatis.",
       "date_of_release": "October 1, 2020",
       "published": true
     },
     {
       "id": "1",
+      "headline": false,
+      "title": "How to prevent health problems?",
+      "author": "Audiopedia",
+      "sponsored": false,
+      "language": "English",
+      "region": "Anglophone",
+      "type": "Text",
+      "category": "Women Essentials",
+      "subcategory": "Health",
+      "topic_internal": "General Health",
+      "article_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat nam at lectus urna. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Lectus quam id l\n  db.articles.forEach(article => {\n    topicList.add(article.topic_internal);\n    regionList.add(article.region);\n  }); vitae nunc. Ultricies leo integer malesuada nunc. Sit amet risus nullam eget felis eget nunc lobortis mattis.\n\n  Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Maecenas pharetra convallis posuere morbi leo. Interdum velit euismod in pellentesque massa. Gravida arcu ac tortor dignissim convallis. Dui ut ornare lectus sit amet est placerat in egestas. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Laoreet sit amet cursus sit amet dictum sit amet. Phasellus faucibus scelerisque eleifend donec. Ridiculus mus mauris vitae ultricies leo. Purus ut faucibus pulvinar elementum integer. Imperdiet nulla malesuada pellentesque elit eget. Tellus rutrum tellus pellentesque eu. Sem et tortor consequat id porta nibh venenatis.",
+      "image_url": "https://markateur.com/wp-content/uploads/2017/04/articles.jpg",
+      "date_of_release": "October 1, 2020",
+      "published": true
+    },
+    {
+      "id": "2",
       "headline": false,
       "title": "How to prevent health problems?",
       "author": "Audiopedia",
@@ -35,7 +51,7 @@
       "published": true
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "How to relax?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -50,7 +66,7 @@
       "published": true
     },
     {
-      "id": "3",
+      "id": "4",
       "headline": true,
       "title": "Why should you go to regular health exams?",
       "author": "Audiopedia",
@@ -67,7 +83,7 @@
       "published": true
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "What are the steps in a pelvic exam?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -82,7 +98,7 @@
       "published": true
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "Why should you use family planning?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -97,7 +113,7 @@
       "published": true
     },
     {
-      "id": "6",
+      "id": "7",
       "title": "How to take care of yourself during pregnancy and birth",
       "author": "Audiopedia",
       "sponsored": false,
@@ -112,7 +128,7 @@
       "published": true
     },
     {
-      "id": "7",
+      "id": "8",
       "headline": false,
       "title": "How to prevent fallen womb (prolapse)",
       "author": "Audiopedia",
@@ -129,7 +145,7 @@
       "published": true
     },
     {
-      "id": "8",
+      "id": "9",
       "title": "Why is it important to do regular breast exams?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -144,7 +160,7 @@
       "published": true
     },
     {
-      "id": "9",
+      "id": "10",
       "title": "How to prevent a Tetanus infection?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -159,7 +175,7 @@
       "published": true
     },
     {
-      "id": "10",
+      "id": "11",
       "title": "How to prevent urine leaking from the vagina?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -174,7 +190,7 @@
       "published": true
     },
     {
-      "id": "11",
+      "id": "12",
       "title": "How to examine your breasts for cancer?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -189,7 +205,7 @@
       "published": true
     },
     {
-      "id": "12",
+      "id": "13",
       "headline": false,
       "title": "What should you do if you find a lump while examining your breasts?",
       "author": "Audiopedia",
@@ -206,7 +222,7 @@
       "published": true
     },
     {
-      "id": "13",
+      "id": "14",
       "title": "Things you need to know about your monthly cycle (menstrual cycle)",
       "author": "Audiopedia",
       "sponsored": false,
@@ -221,7 +237,7 @@
       "published": true
     },
     {
-      "id": "14",
+      "id": "15",
       "title": "What are some frequent problems with monthly bleeding?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -236,7 +252,7 @@
       "published": true
     },
     {
-      "id": "15",
+      "id": "16",
       "headline": true,
       "title": "What is Pre-Menstrual Syndrome (PMS)?",
       "author": "Audiopedia",
@@ -253,7 +269,7 @@
       "published": true
     },
     {
-      "id": "16",
+      "id": "17",
       "title": "What should you do in case of heavy monthly bleeding or bleeding that lasts too long?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -268,7 +284,7 @@
       "published": true
     },
     {
-      "id": "17",
+      "id": "18",
       "title": "What should you do in case of light monthly bleeding?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -283,7 +299,7 @@
       "published": true
     },
     {
-      "id": "18",
+      "id": "19",
       "headline": true,
       "title": "What should you do in case of monthly bleeding that happens too often?",
       "author": "Audiopedia",
@@ -300,7 +316,7 @@
       "published": true
     },
     {
-      "id": "19",
+      "id": "20",
       "title": "What should you know about pregnancy and childbirth?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -315,7 +331,7 @@
       "published": true
     },
     {
-      "id": "20",
+      "id": "21",
       "title": "What should you do if periods come too far apart, or have stopped?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -330,7 +346,7 @@
       "published": true
     },
     {
-      "id": "21",
+      "id": "22",
       "headline": false,
       "title": "What can you do cope better with Pre-menstrual Syndrome (PMS)?",
       "author": "Audiopedia",
@@ -347,7 +363,7 @@
       "published": true
     },
     {
-      "id": "22",
+      "id": "23",
       "title": "How to tell if you're pregnant?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -362,7 +378,7 @@
       "published": true
     },
     {
-      "id": "23",
+      "id": "24",
       "title": "How to stay healthy during pregnancy?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -377,7 +393,7 @@
       "published": true
     },
     {
-      "id": "24",
+      "id": "25",
       "title": "How to tell when your baby is due?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -392,7 +408,7 @@
       "published": true
     },
     {
-      "id": "25",
+      "id": "26",
       "title": "How to practice squeezing exercises?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -407,7 +423,7 @@
       "published": true
     },
     {
-      "id": "26",
+      "id": "27",
       "headline": false,
       "title": "What are some common problems during pregnancy?",
       "author": "Audiopedia",
@@ -424,7 +440,7 @@
       "published": true
     },
     {
-      "id": "27",
+      "id": "28",
       "title": "How to prevent sick stomach (nausea)?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -439,7 +455,7 @@
       "published": true
     },
     {
-      "id": "28",
+      "id": "29",
       "title": "How to prevent heartburn or indigestion?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -454,7 +470,7 @@
       "published": true
     },
     {
-      "id": "29",
+      "id": "30",
       "title": "How to prevent swollen veins?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -469,7 +485,7 @@
       "published": true
     },
     {
-      "id": "30",
+      "id": "31",
       "headline": false,
       "title": "How to  prevent constipation?",
       "author": "Audiopedia",
@@ -486,7 +502,7 @@
       "published": true
     },
     {
-      "id": "31",
+      "id": "32",
       "title": "How to avoid hemorrhoids?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -501,7 +517,7 @@
       "published": true
     },
     {
-      "id": "32",
+      "id": "33",
       "title": "How to prevent leg cramps?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -516,7 +532,7 @@
       "published": true
     },
     {
-      "id": "33",
+      "id": "34",
       "title": "How to prevent low-back pain?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -531,7 +547,7 @@
       "published": true
     },
     {
-      "id": "34",
+      "id": "35",
       "title": "How to prevent swelling of the feet and legs?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -546,7 +562,7 @@
       "published": true
     },
     {
-      "id": "35",
+      "id": "36",
       "title": "Why should you regularly go to the doctor while pregnant?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -561,7 +577,7 @@
       "published": true
     },
     {
-      "id": "36",
+      "id": "37",
       "title": "What happens at a doctor check-up?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -576,7 +592,7 @@
       "published": true
     },
     {
-      "id": "37",
+      "id": "38",
       "headline": true,
       "title": "How many doctor visits should you have?",
       "author": "Audiopedia",
@@ -593,7 +609,7 @@
       "published": true
     },
     {
-      "id": "38",
+      "id": "39",
       "title": "How can the father support you during pregnancy and birth?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -608,7 +624,7 @@
       "published": true
     },
     {
-      "id": "39",
+      "id": "40",
       "title": "Why is good nutrition important for my health?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -623,7 +639,7 @@
       "published": true
     },
     {
-      "id": "40",
+      "id": "41",
       "title": "What is good nutrition?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -638,7 +654,7 @@
       "published": true
     },
     {
-      "id": "41",
+      "id": "42",
       "title": "Which helper foods should I eat regularly?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -653,7 +669,7 @@
       "published": true
     },
     {
-      "id": "42",
+      "id": "43",
       "title": "Which are the most important Vitamins and Minerals for me?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -668,7 +684,7 @@
       "published": true
     },
     {
-      "id": "43",
+      "id": "44",
       "title": "How do I make sure I get enough Iron?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -683,7 +699,7 @@
       "published": true
     },
     {
-      "id": "44",
+      "id": "45",
       "title": "How do I make sure I get enough Folic acid (folate)?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -698,7 +714,7 @@
       "published": true
     },
     {
-      "id": "45",
+      "id": "46",
       "title": "How do I make sure I get enough Calcium?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -713,7 +729,7 @@
       "published": true
     },
     {
-      "id": "46",
+      "id": "47",
       "headline": true,
       "title": "How do I make sure I get enough Iodine?",
       "author": "Audiopedia",
@@ -730,7 +746,7 @@
       "published": true
     },
     {
-      "id": "47",
+      "id": "48",
       "title": "How can I make an iodine solutions to drink?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -745,7 +761,7 @@
       "published": true
     },
     {
-      "id": "48",
+      "id": "49",
       "title": "How do I make sure I get enough Vitamin A?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -760,7 +776,7 @@
       "published": true
     },
     {
-      "id": "49",
+      "id": "50",
       "title": "How can I eat better for less money?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -775,7 +791,7 @@
       "published": true
     },
     {
-      "id": "50",
+      "id": "51",
       "title": "Which ideas about eating are harmful?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -790,7 +806,7 @@
       "published": true
     },
     {
-      "id": "51",
+      "id": "52",
       "title": "How can poor nutrition cause diseases?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -805,7 +821,7 @@
       "published": true
     },
     {
-      "id": "52",
+      "id": "53",
       "title": "What is Anemia?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -820,7 +836,7 @@
       "published": true
     },
     {
-      "id": "53",
+      "id": "54",
       "title": "What causes Anemia?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -835,7 +851,7 @@
       "published": true
     },
     {
-      "id": "54",
+      "id": "55",
       "headline": false,
       "title": "Why is breastfeeding good for my baby?",
       "author": "Audiopedia",
@@ -852,7 +868,7 @@
       "published": true
     },
     {
-      "id": "55",
+      "id": "56",
       "title": "How long should I breastfeed my baby?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -867,7 +883,7 @@
       "published": true
     },
     {
-      "id": "56",
+      "id": "57",
       "title": "Why can other than breastfeeding be harmful?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -882,7 +898,7 @@
       "published": true
     },
     {
-      "id": "57",
+      "id": "58",
       "title": "What should I eat while breastfeeding?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -897,7 +913,7 @@
       "published": true
     },
     {
-      "id": "58",
+      "id": "59",
       "title": "How can I use breastfeeding for child-spacing?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -912,7 +928,7 @@
       "published": true
     },
     {
-      "id": "59",
+      "id": "60",
       "title": "When should I stop breastfeeding?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -927,7 +943,7 @@
       "published": true
     },
     {
-      "id": "60",
+      "id": "61",
       "title": "I work away from home - should I breastfeed my baby anyway?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -942,7 +958,7 @@
       "published": true
     },
     {
-      "id": "61",
+      "id": "62",
       "title": "How can I be sure that I have enough milk and that my milk is good?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -957,7 +973,7 @@
       "published": true
     },
     {
-      "id": "62",
+      "id": "63",
       "title": "How can I prevent Anemia?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -972,7 +988,7 @@
       "published": true
     },
     {
-      "id": "63",
+      "id": "64",
       "title": "What is Beriberi?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -987,7 +1003,7 @@
       "published": true
     },
     {
-      "id": "64",
+      "id": "65",
       "title": "How can I prevent Beriberi?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1002,7 +1018,7 @@
       "published": true
     },
     {
-      "id": "65",
+      "id": "66",
       "title": "What other problems result from eating too much foor or the wrong food?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1017,7 +1033,7 @@
       "published": true
     },
     {
-      "id": "66",
+      "id": "67",
       "title": "What is Diabetes?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1032,7 +1048,7 @@
       "published": true
     },
     {
-      "id": "67",
+      "id": "68",
       "title": "How can I control Diabetes?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1047,7 +1063,7 @@
       "published": true
     },
     {
-      "id": "68",
+      "id": "69",
       "title": "How can I improve my Nutrition?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1062,7 +1078,7 @@
       "published": true
     },
     {
-      "id": "69",
+      "id": "70",
       "title": "How to prevent health and growth problems of my children from malnutrition?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1077,7 +1093,7 @@
       "published": true
     },
     {
-      "id": "70",
+      "id": "71",
       "headline": false,
       "title": "How do I feed young children (older than 6 months)?",
       "author": "Audiopedia",
@@ -1094,7 +1110,7 @@
       "published": true
     },
     {
-      "id": "71",
+      "id": "72",
       "title": "Why is Vitamin A important for my child?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1109,7 +1125,7 @@
       "published": true
     },
     {
-      "id": "72",
+      "id": "73",
       "title": "Why is iron important for my child?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1124,7 +1140,7 @@
       "published": true
     },
     {
-      "id": "73",
+      "id": "74",
       "title": "What foods are best for young children (older than 6 months)?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1139,7 +1155,7 @@
       "published": true
     },
     {
-      "id": "74",
+      "id": "75",
       "title": "Why is iodine important for my child?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1154,7 +1170,7 @@
       "published": true
     },
     {
-      "id": "75",
+      "id": "76",
       "title": "How are germs mostly spread?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1169,7 +1185,7 @@
       "published": true
     },
     {
-      "id": "76",
+      "id": "77",
       "title": "How can cleanliness prevent sickness?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1184,7 +1200,7 @@
       "published": true
     },
     {
-      "id": "77",
+      "id": "78",
       "title": "How can cleanliness prevent the spreading of germs?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1199,7 +1215,7 @@
       "published": true
     },
     {
-      "id": "78",
+      "id": "79",
       "headline": false,
       "title": "How can cleanliness in the community prevent sickness?",
       "author": "Audiopedia",
@@ -1216,7 +1232,7 @@
       "published": true
     },
     {
-      "id": "79",
+      "id": "80",
       "title": "How does safe disposal of garbage help prevent illness?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1231,7 +1247,7 @@
       "published": true
     },
     {
-      "id": "80",
+      "id": "81",
       "title": "How can cleanliness in the home prevent sickness?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1246,7 +1262,7 @@
       "published": true
     },
     {
-      "id": "81",
+      "id": "82",
       "title": "How can I properly store food?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1261,7 +1277,7 @@
       "published": true
     },
     {
-      "id": "82",
+      "id": "83",
       "title": "How can I protect my teeth?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1276,7 +1292,7 @@
       "published": true
     },
     {
-      "id": "83",
+      "id": "84",
       "title": "How can I select good food?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1291,7 +1307,7 @@
       "published": true
     },
     {
-      "id": "84",
+      "id": "85",
       "title": "How can I keep water for drinking and cooking clean?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1306,7 +1322,7 @@
       "published": true
     },
     {
-      "id": "85",
+      "id": "86",
       "title": "Why should I drain standing water before using it?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1321,7 +1337,7 @@
       "published": true
     },
     {
-      "id": "86",
+      "id": "87",
       "title": "How can I build a latrine?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1336,7 +1352,7 @@
       "published": true
     },
     {
-      "id": "87",
+      "id": "88",
       "title": "How can I get rid of garbage in a safe way?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1351,7 +1367,7 @@
       "published": true
     },
     {
-      "id": "88",
+      "id": "89",
       "title": "How can I get clean drinking water?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1366,7 +1382,7 @@
       "published": true
     },
     {
-      "id": "89",
+      "id": "90",
       "title": "How can I keep my food safe?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1381,7 +1397,7 @@
       "published": true
     },
     {
-      "id": "90",
+      "id": "91",
       "headline": false,
       "title": "How can I care for myself during my monthly bleeding?",
       "author": "Audiopedia",
@@ -1398,7 +1414,7 @@
       "published": true
     },
     {
-      "id": "91",
+      "id": "92",
       "title": "How can I protect my eyes?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1413,7 +1429,7 @@
       "published": true
     },
     {
-      "id": "92",
+      "id": "93",
       "title": "How can I purify my drinking water?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1428,7 +1444,7 @@
       "published": true
     },
     {
-      "id": "93",
+      "id": "94",
       "title": "How can I recognize spoiled food?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1443,7 +1459,7 @@
       "published": true
     },
     {
-      "id": "94",
+      "id": "95",
       "title": "How can I prevent the spread of germs in food?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1458,7 +1474,7 @@
       "published": true
     },
     {
-      "id": "95",
+      "id": "96",
       "title": "How can I keep food cool?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1473,7 +1489,7 @@
       "published": true
     },
     {
-      "id": "96",
+      "id": "97",
       "title": "How should I properly handle food for children?",
       "author": "Audiopedia",
       "sponsored": false,
@@ -1488,7 +1504,7 @@
       "published": true
     },
     {
-      "id": "97",
+      "id": "98",
       "title": "French: Body parts",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1503,7 +1519,7 @@
       "published": true
     },
     {
-      "id": "98",
+      "id": "99",
       "title": "French: Daily routine",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1518,7 +1534,7 @@
       "published": true
     },
     {
-      "id": "99",
+      "id": "100",
       "title": "French: Body Parts",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1533,7 +1549,7 @@
       "published": true
     },
     {
-      "id": "100",
+      "id": "101",
       "headline": false,
       "title": "French: Face/Body Parts",
       "author": "YouTube - YouLearnFrench",
@@ -1550,7 +1566,7 @@
       "published": true
     },
     {
-      "id": "101",
+      "id": "102",
       "title": "French: Foods",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1565,7 +1581,7 @@
       "published": true
     },
     {
-      "id": "102",
+      "id": "103",
       "title": "French: Dairy Products",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1580,7 +1596,7 @@
       "published": true
     },
     {
-      "id": "103",
+      "id": "104",
       "title": "French: Drinks",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1595,7 +1611,7 @@
       "published": true
     },
     {
-      "id": "104",
+      "id": "105",
       "title": "French: Vocabulary",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1610,7 +1626,7 @@
       "published": true
     },
     {
-      "id": "105",
+      "id": "106",
       "title": "French: Meals of the day",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1625,7 +1641,7 @@
       "published": true
     },
     {
-      "id": "106",
+      "id": "107",
       "title": "French: Fruits",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1640,7 +1656,7 @@
       "published": true
     },
     {
-      "id": "107",
+      "id": "108",
       "title": "French: Aller (To go)",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
@@ -1655,7 +1671,7 @@
       "published": true
     },
     {
-      "id": "108",
+      "id": "109",
       "title": "French: Hobbies",
       "author": "YouTube - YouLearnFrench",
       "sponsored": true,
